@@ -1,9 +1,8 @@
 # Neural_Network_Analysis
 It is an analysis of NeuralNetwork implemented on MNIST dataset. Here everyone get idea of how weights and biases changing after each epoch over different different cost function(i.e Least square cost, Entropy-cost).Also i have Implemented Regularization on Network and you can visualize through graphs and histogram and summary video.
-
+<pre>
 Folder structure:
-<br />
-  **Neural_Network_Analysis**<br />
+  **Neural_Network_Analysis**
     |
     |-->**DigitNeural_${*}_py**
     |     |
@@ -34,8 +33,7 @@ Folder structure:
     |-->**Sigmoid_workflow**
           |-->sigmoid.py
           |-->Sigmoid.png
-          
-    
+    </pre>  
     
 Where ${*} :
   1)  EntropyCost
