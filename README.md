@@ -1,5 +1,9 @@
 # Neural_Network_Analysis
 It is an analysis of NeuralNetwork implemented on MNIST dataset. Here everyone get idea of how weights and biases changing after each epoch over different different cost function(i.e Least square cost, Entropy-cost).Also i have Implemented Regularization on Network and you can visualize through graphs and histogram and summary video.
+
+weights_before_learning_histogram.png  |  weights_after_learning_histogram.png
+:-------------------------:|:-------------------------:
+![](DigitNeural_NormalCost_py/graphs/weights_before_learning_histogram.png)  |  ![](DigitNeural_NormalCost_py/graphs/weights_after_learning_histogram.png)
 <pre>
 Folder structure:
   **Neural_Network_Analysis**
